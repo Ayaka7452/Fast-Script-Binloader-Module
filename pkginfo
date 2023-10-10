@@ -1,0 +1,4 @@
+pkgname=[Fast_Script]
+version=[1.3]
+execpath=[fs.sh]
+execname=[fs]
